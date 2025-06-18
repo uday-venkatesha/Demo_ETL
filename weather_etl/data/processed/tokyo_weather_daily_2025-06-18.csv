@@ -1,0 +1,2 @@
+city_name,country_code,latitude,longitude,temperature_celsius,feels_like_celsius,min_temp_celsius,max_temp_celsius,pressure_hPa,humidity_percent,sea_level_pressure_hPa,ground_level_pressure_hPa,wind_speed_mps,wind_direction_deg,clouds_percent,weather_main,weather_description,visibility_meters,timestamp_utc,sunrise_utc,sunset_utc,data_ingestion_time_utc
+Tokyo,JP,35.6895,139.6917,26.18,26.18,24.25,27.02,1013,82,1013,1012,2.06,130,20,Clouds,few clouds,10000,2025-06-18 12:14:01,2025-06-18 14:25:18,2025-06-19 04:59:44,2025-06-18 17:14:01.545403

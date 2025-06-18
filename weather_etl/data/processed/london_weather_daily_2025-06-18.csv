@@ -1,0 +1,2 @@
+city_name,country_code,latitude,longitude,temperature_celsius,feels_like_celsius,min_temp_celsius,max_temp_celsius,pressure_hPa,humidity_percent,sea_level_pressure_hPa,ground_level_pressure_hPa,wind_speed_mps,wind_direction_deg,clouds_percent,weather_main,weather_description,visibility_meters,timestamp_utc,sunrise_utc,sunset_utc,data_ingestion_time_utc
+London,GB,51.5085,-0.1257,28.47,27.87,27.06,29.45,1024,37,1024,1019,4.12,300,8,Clear,clear sky,10000,2025-06-18 12:13:19,2025-06-17 22:42:43,2025-06-18 15:20:37,2025-06-18 17:14:01.442887

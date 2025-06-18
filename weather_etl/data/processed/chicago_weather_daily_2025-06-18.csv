@@ -1,0 +1,2 @@
+city_name,country_code,latitude,longitude,temperature_celsius,feels_like_celsius,min_temp_celsius,max_temp_celsius,pressure_hPa,humidity_percent,sea_level_pressure_hPa,ground_level_pressure_hPa,wind_speed_mps,wind_direction_deg,clouds_percent,weather_main,weather_description,visibility_meters,timestamp_utc,sunrise_utc,sunset_utc,data_ingestion_time_utc
+Chicago,US,41.85,-87.65,26.25,26.25,24.46,27.32,1008,70,1008,987,2.68,40,100,Rain,light rain,10000,2025-06-18 12:10:56,2025-06-18 05:15:14,2025-06-18 20:28:23,2025-06-18 17:14:01.342859
